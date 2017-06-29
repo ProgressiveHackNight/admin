@@ -20,12 +20,14 @@ Progressive HackNight is dedicated to providing a harassment-free experience for
 
 You can pull any of us aside, email us as a group at steering@proghacknight.org, email us individually at our emails listed below, or DM us in the Progressive HackNight slack if you feel uncomfortable or unsafe at the event. Here’s what we look like and our respective emails and slack names to reach us:
 
-![ilona] (headshots/ilona.jpg)
+![ilona](headshots/ilona.jpg)
+
 Ilona Brand, she/her
 ilona@proghacknight.org
 @ibrand
 
-![vesha] (headshots/vesha.jpg)
+![vesha](headshots/vesha.jpg)
+
 La Vesha Parker, she/her
 vesha@proghacknight.org
 @vesha
@@ -45,7 +47,8 @@ sonya@proghacknight.org
 @sonyabear
 215-264-5968
 
-![tino] (headshots/tino.png)
+![tino](headshots/tino.png)
+
 Tino Bedi, He/him
 tino@proghacknight.org
 @tino
