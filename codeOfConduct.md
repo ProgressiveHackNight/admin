@@ -32,15 +32,21 @@ La Vesha Parker, she/her
 vesha@proghacknight.org
 @vesha
 
+![rapi](headshots/rapi.png)
+
 Rapi Castillo, he/him
 rapi@proghacknight.org
 @pikittakbo
 347-481-3036
 
+![annie](headshots/annie.jpg)
+
 Annie Hirshman, she/her
 annie@proghacknight.org
 @anniehirshman
 603-731-7923
+
+![sonya](headshots/sonya.jpeg)
 
 Sonya Reynolds, she/her/hers
 sonya@proghacknight.org
@@ -54,10 +60,16 @@ tino@proghacknight.org
 @tino
 212-960-3975
 
+![julian](headshots/julian.jpg)
+
 Julian Rad, he/him
 julianrad@gmail.com
 @julianrad
 917.854.8368
+
+![alex](headshots/alex.jpg)
+
+Alex Burgos, he/him
 
 ---
 <sup>1</sup> The social rules are excerpts from the original social rules from the Recurse Center, where they help nurture a productive learning environment. The Recurse Center wrote an awesome blog post explaining their social rules, and we will be sure to announce these rules at the start of every HackNight.
