@@ -67,7 +67,7 @@ julianrad@gmail.com
 @julianrad
 917.854.8368
 
-![alex](headshots/alex.jpg) 
+![alex](headshots/alex-small.jpg)
 
 Alex Burgos, he/him
 
